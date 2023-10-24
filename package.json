@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "datetime": "^0.0.3",
+    "express": "^4.18.2"
+  },
+  "name": "desafio-backend-modulo-02-alternativo-dbe-t03",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
