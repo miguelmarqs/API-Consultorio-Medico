@@ -14,7 +14,7 @@ A API permite :
 
 ### Clonar o repositório
 Abra um terminal e navegue até o diretório onde você deseja clonar o projeto. Em seguida, execute o seguinte comando:
-git clone https://github.com/<seu-usuário>/<nome-do-projeto>.git
+git clone (https://github.com/miguelmarqs/API-Consultorio-Medico.git)
 
 ### Instalar as dependências
 Navegue até o diretório do projeto e execute o seguinte comando:
