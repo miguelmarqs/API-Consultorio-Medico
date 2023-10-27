@@ -51,7 +51,7 @@ npm run dev
 ````
 
 Caso a paciente já esteja em uma consulta deverá retornar um seguinte mensagem:
-"mensagem": "O paciente já tem uma consulta em andamento!"
+"O paciente já tem uma consulta em andamento!"
 
 ### Listando uma consulta médica. "GET"
 ![image](https://github.com/miguelmarqs/API-Consultorio-Medico/assets/82917066/6c3b01f3-5b2d-4c87-a876-9d8ed80d7aaf)
@@ -60,7 +60,7 @@ Caso a paciente já esteja em uma consulta deverá retornar um seguinte mensagem
 ![image](https://github.com/miguelmarqs/API-Consultorio-Medico/assets/82917066/98318a75-9964-4937-a3ea-99f3c0a493ad)
 
 Se a consulta ja for finalizada não será possivel atualizar os dados retornando a seguinte mensagem:
-"mensagem": "Não é possível atualizar uma consulta finalizada!"
+"Não é possível atualizar uma consulta finalizada!"
 
 ### Excluindo uma consulta médica. "DELETE"
 ![image](https://github.com/miguelmarqs/API-Consultorio-Medico/assets/82917066/8b641c29-56c2-4a76-99da-c0ce6e550393)
