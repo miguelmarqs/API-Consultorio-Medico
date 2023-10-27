@@ -10,10 +10,7 @@ A API permite :
 - Listar o laudo de uma consulta
 - Listar as consultas que um médico atendeu
 
-## Passo a passo para executar um projeto do GitHub
-
-### Fork do projeto
-Acesse o repositório do projeto no GitHub e clique no botão "Fork".
+## Passo a passo para executar o projeto do GitHub
 
 ### Clonar o repositório
 Abra um terminal e navegue até o diretório onde você deseja clonar o projeto. Em seguida, execute o seguinte comando:
